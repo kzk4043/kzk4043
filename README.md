@@ -62,4 +62,9 @@ Here are some ideas to get you started:
 # ![zenn](./icons/zenn.png) Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Core Web Vitalsの基本](https://zenn.dev/soma3134/articles/02bcec32a5c59b)
+- [bashでタイマー作ってみた](https://zenn.dev/soma3134/articles/68e36621f6a43e)
+- [今更GraphQL：Query書き方基礎の基礎](https://zenn.dev/soma3134/articles/cb6b9de2564fb6)
+- [EmailJSを使ってみる](https://zenn.dev/soma3134/articles/d1d06f49b4c0f1)
+- [今更Gatsby入門](https://zenn.dev/soma3134/articles/0515ef4c3419b5)
 <!-- BLOG-POST-LIST:END -->
