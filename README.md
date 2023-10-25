@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <li>📝 I regularly write articles on [zenn](https://zenn.dev/soma3134)</li>
     <li>📫 How to reach me -> **[my contact page](https://main--genuine-cendol-d60cc9.netlify.app/en/contact/)**</li>
   </ul>
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=kzk4043&show_icons=true&locale=en" alt="kzk4043" />
+  <div style="flex-basis:50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=kzk4043&show_icons=true&locale=en" alt="kzk4043" /></div>
 </div>
 
 # ![zenn](./icons/zenn.png) Latest Blog Posts
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 # 👓 Languages etc.
 
 <div style="display:flex; gap:10%">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzk4043&show_icons=true&locale=en&layout=compact" alt="kzk4043" />
+  <div style="flex-basis:50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzk4043&show_icons=true&locale=en&layout=compact" alt="kzk4043" /></div>
   <div>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
