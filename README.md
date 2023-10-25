@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me -> from [my contact page](https://main--genuine-cendol-d60cc9.netlify.app/en/contact/)
 
 <br />
-<br />
 
 # 👓 Languages etc.
 
