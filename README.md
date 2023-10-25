@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=kzk4043&show_icons=true&locale=en" alt="kzk4043" /></p>
 
-- ❤️ I'm a frontend engineer.
+- ❤️ I'm a frontend engineer in Tokyo.
   - Next.js/Nuxt.js/TypeScript
 - 🌱 I’m currently learning **Next.js, Astro and Jest.**
 - 👨‍💻 All of my projects are available at [my works](https://main--genuine-cendol-d60cc9.netlify.app/en/works/).
 - 📝 I regularly write articles on [zenn](https://zenn.dev/soma3134).
-- 📫 How to reach me -> [my contact page](https://main--genuine-cendol-d60cc9.netlify.app/en/contact/)
+- 📫 How to reach me -> from [my contact page](https://main--genuine-cendol-d60cc9.netlify.app/en/contact/)
 
 # ![zenn](./icons/zenn.png) Latest Blog Posts
 
