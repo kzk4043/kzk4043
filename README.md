@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![hello-world](./images/hello-world.png)
+![hello-world](./images/hello-world.jpg)
 
-# Hi 👋, I'm kzk4043
+# 👋 Hi, there
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=kzk4043&show_icons=true&locale=en" alt="kzk4043" /></p>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br />
 
-# 👓 Languages etc.
+# 🎩 Languages etc.
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzk4043&show_icons=true&locale=en&layout=compact" alt="kzk4043" /></p>
 
@@ -59,12 +59,9 @@ Here are some ideas to get you started:
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
+<br />
+
 # ![zenn](./icons/zenn.png) Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Core Web Vitalsの基本](https://zenn.dev/soma3134/articles/02bcec32a5c59b)
-- [bashでタイマー作ってみた](https://zenn.dev/soma3134/articles/68e36621f6a43e)
-- [今更GraphQL：Query書き方基礎の基礎](https://zenn.dev/soma3134/articles/cb6b9de2564fb6)
-- [EmailJSを使ってみる](https://zenn.dev/soma3134/articles/d1d06f49b4c0f1)
-- [今更Gatsby入門](https://zenn.dev/soma3134/articles/0515ef4c3419b5)
 <!-- BLOG-POST-LIST:END -->
