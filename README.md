@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://codepen.io/kzk4043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kzk4043" height="30" width="40" /></a>
   <a href="https://twitter.com/kzk4043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kzk4043" height="30" width="40" /></a>
-  <a href="/https://zenn.dev/soma3134/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/soma3134/feed" height="30" width="40" /></a>
+  <a href="https://zenn.dev/soma3134/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/soma3134/feed" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
