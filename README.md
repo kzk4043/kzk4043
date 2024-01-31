@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 # ![zenn](./icons/zenn.png) Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [１年育休をとったエンジニアの話](https://zenn.dev/soma3134/articles/a38f5af0839f67)
 - [Macで自動シャットダウンをスケジュールする](https://zenn.dev/soma3134/articles/88b593fb5ffd87)
 - [Core Web Vitalsの基本](https://zenn.dev/soma3134/articles/02bcec32a5c59b)
 - [bashでタイマー作ってみた](https://zenn.dev/soma3134/articles/68e36621f6a43e)
 - [今更GraphQL：Query書き方基礎の基礎](https://zenn.dev/soma3134/articles/cb6b9de2564fb6)
-- [EmailJSを使ってみる](https://zenn.dev/soma3134/articles/d1d06f49b4c0f1)
 <!-- BLOG-POST-LIST:END -->
