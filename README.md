@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 # ![zenn](./icons/zenn.png) Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [社内外の強い人達の調査/勉強法まとめ](https://zenn.dev/soma3134/articles/5ba60a7e0d6925)
+- [強い人達の調査/勉強法まとめ](https://zenn.dev/soma3134/articles/5ba60a7e0d6925)
 - [１年育休をとったエンジニアの話](https://zenn.dev/soma3134/articles/a38f5af0839f67)
 - [Macで自動シャットダウンをスケジュールする](https://zenn.dev/soma3134/articles/88b593fb5ffd87)
 - [Core Web Vitalsの基本](https://zenn.dev/soma3134/articles/02bcec32a5c59b)
