@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 # 👋 Hi, there
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=kzk4043&show_icons=true&locale=en" alt="kzk4043" /></p>
+<p><img align="right" width="49%" src="https://github-stats-extended.vercel.app/api?username=kzk4043&show_icons=true&locale=en" alt="kzk4043" /></p>
 
 - ❤️ I'm a frontend engineer in Tokyo.
   - Next.js/Nuxt.js/TypeScript
 - 🌱 I’m currently learning **Next.js, Astro and Jest.**
-- 👨‍💻 All of my projects are available at [my works](https://main--genuine-cendol-d60cc9.netlify.app/en/works/).
+- 👨‍💻 All of my projects are available at [my works](https://kzk4043-portfolio.netlify.app/works/).
 - 📝 I regularly write articles on [zenn](https://zenn.dev/soma3134).
-- 📫 How to reach me -> from [my contact page](https://main--genuine-cendol-d60cc9.netlify.app/en/contact/)
+- 📫 How to reach me -> from [my contact page](https://kzk4043-portfolio.netlify.app/contact/)
 
 <br />
 
 # 🎩 Languages etc.
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzk4043&show_icons=true&locale=en&layout=compact" alt="kzk4043" /></p>
+<p><img align="right" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=kzk4043&show_icons=true&locale=en&layout=compact" alt="kzk4043" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
