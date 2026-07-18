@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <p><img align="right" width="49%" src="https://github-stats-extended.vercel.app/api?username=kzk4043&show_icons=true&locale=en" alt="kzk4043" /></p>
 
-- ❤️ I'm a frontend engineer in Tokyo.
-  - Next.js/Nuxt.js/TypeScript
+- ❤️ I'm a frontend engineer in Hiroshima.
+  - Astro / Next.js / Nuxt.js / TypeScript
 - 🌱 I’m currently learning **Next.js, Astro and Jest.**
 - 👨‍💻 All of my projects are available at [my works](https://kzk4043-portfolio.netlify.app/works/).
 - 📝 I regularly write articles on [zenn](https://zenn.dev/soma3134).
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
